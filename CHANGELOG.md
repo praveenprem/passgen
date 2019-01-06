@@ -6,6 +6,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 # 0.0.1 [Unreleased]
 ### Added
- - GitIgnore
- - License
- - Documentation
+ - GitIgnore added
+ - License added
+ - Documentation added
+ - User data collections added
+ - Plain text password strength validation added
+ - Hash generation added

@@ -2,7 +2,7 @@
 
 Simple BCrypt based tool for generating hashed passwords for basic authentication compatible applications.
 
-##Table of Contents
+## Table of Contents
 
 1. [Installation](#installation)
     1. [Sub Heading](#sub-heading)
